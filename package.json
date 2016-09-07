@@ -1,0 +1,21 @@
+{
+  "name": "xxoo",
+  "description": "",
+  "version": "0.0.1",
+  "private": true,
+  "author": {
+    "name": "胡员外",
+    "email": "362908934@qq.com"
+  },
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "superagent": "^2.2.0"
+  },
+  "engines": {
+    "node": "v4.4.3"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
